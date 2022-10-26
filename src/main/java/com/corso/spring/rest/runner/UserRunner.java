@@ -18,7 +18,9 @@ public class UserRunner implements ApplicationRunner{
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
 		log.info("User Runner...");
-		
+
+		//secondo
+
 		for(int i = 0; i < 10; i++)
 			userService.insertUser(userService.createFakeUser());
 		
