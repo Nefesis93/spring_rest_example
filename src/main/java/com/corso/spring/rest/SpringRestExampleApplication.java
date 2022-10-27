@@ -13,6 +13,8 @@ public class SpringRestExampleApplication {
 
 		System.out.println("Test Matteo");
 
+		System.out.println("Test Luca");
+
 
 
 		SpringApplication.run(SpringRestExampleApplication.class, args);
