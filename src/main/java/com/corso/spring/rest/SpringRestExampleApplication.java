@@ -15,7 +15,7 @@ public class SpringRestExampleApplication {
 
 		System.out.println("Test Luca");
 
-
+		System.out.println("Test Luca 2");
 
 		SpringApplication.run(SpringRestExampleApplication.class, args);
 	}
