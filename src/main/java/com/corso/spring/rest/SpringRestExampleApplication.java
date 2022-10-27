@@ -10,4 +10,7 @@ public class SpringRestExampleApplication {
 		SpringApplication.run(SpringRestExampleApplication.class, args);
 	}
 
+	System.out.println("Test Victoras");
+
+
 }
