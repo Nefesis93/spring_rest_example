@@ -14,13 +14,7 @@ class SpringRestExampleApplicationTests {
 		//testtt
 		//testtt
 		//testtt
-		//testtt
-		//testtt
-		//testtt
-		//testtt
-		//testtt
-		//testtt
-		//testtt
+		//tes
 	}
 
 }
