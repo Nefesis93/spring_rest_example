@@ -20,6 +20,11 @@ public class UserRunner implements ApplicationRunner{
 		log.info("User Runner...");
 
 		//quarto
+		//quarto
+		//quarto
+		//quarto
+		//quarto
+		//quarto
 
 		for(int i = 0; i < 10; i++)
 			userService.insertUser(userService.createFakeUser());
