@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringRestExampleApplication {
 
 	public static void main(String[] args) {
+
+		System.out.println("Test Serena");
+
 		SpringApplication.run(SpringRestExampleApplication.class, args);
 	}
 
