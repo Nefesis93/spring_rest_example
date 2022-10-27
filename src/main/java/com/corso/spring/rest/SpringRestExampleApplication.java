@@ -17,6 +17,9 @@ public class SpringRestExampleApplication {
 
 		System.out.println("Test Luca 2");
 
+
+		System.out.println("Test Serena");
+
 		SpringApplication.run(SpringRestExampleApplication.class, args);
 	}
 
